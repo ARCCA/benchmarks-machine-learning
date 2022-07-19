@@ -12,12 +12,14 @@ Specifically, I'm using: **ImageNet Large Scale Visual Recognition Challenge 201
 
 List of files in dataset
 
-  20M  ILSVRC2012_bbox_train_v2.tar.gz
- 2.2M  ILSVRC2012_bbox_val_v3.tgz
- 2.5M  ILSVRC2012_devkit_t12.tar.gz
-  22M  ILSVRC2012_devkit_t3.tar.gz
-  13G  ILSVRC2012_img_test_v10102019.tar
- 728M  ILSVRC2012_img_train_t3.tar
- 138G  ILSVRC2012_img_train.tar
- 6.3G  ILSVRC2012_img_val.tar
- 489K  synset_labels.txt
+| Size | Filename                          |
+|------|-----------------------------------|
+|  20M | ILSVRC2012_bbox_train_v2.tar.gz   |
+| 2.2M | ILSVRC2012_bbox_val_v3.tgz        |
+| 2.5M | ILSVRC2012_devkit_t12.tar.gz      |
+|  22M | ILSVRC2012_devkit_t3.tar.gz       |
+|  13G | ILSVRC2012_img_test_v10102019.tar |
+| 728M | ILSVRC2012_img_train_t3.tar       |
+| 138G | ILSVRC2012_img_train.tar          |
+| 6.3G | ILSVRC2012_img_val.tar            |
+| 489K | synset_labels.txt                 |
